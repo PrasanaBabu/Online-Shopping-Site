@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
   <display-name>Online Shopping</display-name>
-<!--  	
-	<servlet>
-        <servlet-name>addNewProduct</servlet-name>
-        <servlet-class>/Online Shopping/src/main/webapp/admin/addNewProductServlet</servlet-class>
-    </servlet>
-    
-    <servlet-mapping>
-        <servlet-name>addNewProduct</servlet-name>
-        <url-pattern>/addNewProductServlet</url-pattern>
-    </servlet-mapping>
--->    
+	<welcome-file-list>
+      	  <welcome-file>login.jsp</welcome-file>
+        </welcome-file-list>
+	
 </web-app>
