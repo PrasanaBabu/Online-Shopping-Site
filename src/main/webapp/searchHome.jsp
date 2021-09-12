@@ -62,9 +62,7 @@
       <br>
       <br>
       <br>
-      <div class="footer">
-          <p>All right reserved by BTech Days</p>
-      </div>
+      
 
 </body>
 </html>
