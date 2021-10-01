@@ -17,7 +17,7 @@
 Hey everyone!!
 <br>
 <br>
-This is an online shopping website done by us in our college days to get hands-on experience in JSP , Servlets , HTML , CSS , etc.
+This is an online shopping website done by us in our college days to get hands-on experience in JSP , Servlets , HTML , CSS , MYSQL , Apache Tomacat.
  
 <br>
 Thank you for visiting this project. We hope you enjoyed the time spent here. If you have any suggestions to improve this website please feel free to message us through the <a href ="messageUs.jsp">message us</a> page. We will try to respond as soon as possible.  
