@@ -1,0 +1,9 @@
+Open Eclipse Goto File and click Import as WAR file.
+
+Then select this file and use runtime as 9.0.46  
+
+Make sure you have mySQL and have a database named ospjsp or if you want someother name change it in the UserDao file.
+
+Make sure you run createTable file inside  /webapp/table when you run for the first time to create various tables needed for this project.
+
+Hope you have a great experience.
